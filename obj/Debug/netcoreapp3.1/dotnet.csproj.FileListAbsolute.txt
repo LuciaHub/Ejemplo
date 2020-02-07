@@ -1,0 +1,17 @@
+C:\build_output\dotnet.exe
+C:\build_output\dotnet.deps.json
+C:\build_output\dotnet.runtimeconfig.json
+C:\build_output\dotnet.runtimeconfig.dev.json
+C:\build_output\dotnet.dll
+C:\build_output\dotnet.pdb
+C:\Curso\dotnet\obj\Debug\netcoreapp3.1\dotnet.csprojAssemblyReference.cache
+C:\Curso\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfoInputs.cache
+C:\Curso\dotnet\obj\Debug\netcoreapp3.1\dotnet.AssemblyInfo.cs
+C:\Curso\dotnet\obj\Debug\netcoreapp3.1\dotnet.dll
+C:\Curso\dotnet\obj\Debug\netcoreapp3.1\dotnet.pdb
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.exe
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.deps.json
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.json
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.runtimeconfig.dev.json
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.dll
+C:\Curso\dotnet\bin\Debug\netcoreapp3.1\dotnet.pdb
